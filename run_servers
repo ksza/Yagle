@@ -1,0 +1,5 @@
+java -jar YagleRegisterServer.jar &
+java -jar YaglePlayServer.jar &
+
+java -jar ChessServer.jar &
+java -jar GoServer.jar &
